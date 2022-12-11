@@ -40,7 +40,11 @@ The following screenshot demonstrates the application functionality:
 
 - The URL of the deployed application:
 
+https://stevelab1.github.io/Daily-Planner/
+
 - The URL of the GitHub repository:
+
+https://github.com/stevelab1/Daily-Planner
 
 ### Credits:
 
